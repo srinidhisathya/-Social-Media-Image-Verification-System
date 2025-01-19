@@ -1,0 +1,25 @@
+List of libraries:
+Before beginning our work, we install all the necessary packages required for our code to render perfectly without any errors. Packages we are installing:
+
+Pandas- Used for data manipulation with indexing.
+Scikit-learn- Used for Data analysis and Data mining. It consists of ML algorithms.
+NLTK- To process Natural Language Processing (NLP) code.
+Seaborn- Library based on Matplotlib to draw statistic graphics.
+Langid- Language identification tool.
+
+Now, we import entire modules or specific objects from a module into your notebook:
+
+Numpy- Used for numerical operations
+Matplotlib.pyplot- A versatile plotting library.
+re- Used for regular expressions
+train_test_split- Used to split data into training and testing sets.
+CountVectorizer, TfidfVectorizer- To convert text data into numerical feature vectors.
+StandardScale- Used for Feature scaling.
+LabelEncoder- Used for encoding categorical labels.
+RandomForest- An ensemble learning method for Classification.
+PC((Principal Component Analysis)-Used for dimensionality reduction.
+Accuracy_score, Classification_report, Confusion_matrix, roc_curve, auc- Function used to evaluate the performance of a ML model.
+rt - The Support Vector Classification algorithm.
+Make_pipeline- Used to create a pipeline for sequential application of a list of transforms with a final estimator.
+Axes3D- Used to create 3D plots using Matplotlib.
+GradientBoostingClassifier- Implements the Gradient boosting algorithm for classification tasks.
